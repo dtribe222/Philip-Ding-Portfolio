@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your University Notes</title>
+<link rel="stylesheet" href="css/styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ruda:wght@800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/course.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<script defer = "true" type = "text/javascript" src = "js/course.js"></script>
+</head>
+<body>
+  <div class="header">
+    <h1>PHILIP DING PORTFOLIO</h1>
+  </div>
+  <div class="navbar">
+    <a href="html.html">Home</a>
+    <a href="aboutme.html">About Me</a>
+    <a href="course.html">Acedemics</a>
+    <a href="signup.html">Sign Up</a>
+    <a href="login.html">Login</a>
+  </div>
+  <div class="section-container">
+    <div class="section">
+      <div class="logo-container">
+        <a href="https://www.auckland.ac.nz/en.html">
+          <img class="uni-logo" src="other\University_of_Auckland_logo.png" alt="Placeholder Image">
+        </a>
+      </div>
+      <h1>University of Auckland</h1>
+      <p><strong>2021-2023</strong><br><br>Diploma in Computer Science</p>
+      <a class="btn" id="compsciBtn">Course Catalogue</a>
+    </div>
+  </div>
+  <div id="compsciModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h1>Computer Science Courses - GPA: 6.4/9</h1>
+      <h2>Stage III</h2>
+      <div class="modal-container">
+        <h3>Compsci 399 <button class="expand" data-course="compsci399">Expand</button></h3>
+        <p id="compsci399" style="display: none;">Students work in small groups to complete a substantial problem applying the knowledge learnt from the different courses in the Computer Science major.
+           Teams are expected to reason on a problem, devise a solution, produce an artefact and present their work.
+          The capstone provides an opportunity for students to further develop their technical and communication skills.<br><br>Grade Achieved: <strong>A-</strong></p>        
+      </div>
+      <div class="modal-container">
+        <h3>Compsci 373 <button class="expand" data-course="compsci373">Expand</button></h3>
+        <p id="compsci373" style="display: none;">Basic geometric processes including transformations; viewing and projection; back projection and ray tracing. 
+          Graphics modelling concepts: primitives, surfaces, and scene graphs, lighting and shading, texture mapping, and curve and surface design. Graphics and image processing fundamentals: image definition and representation, perception and colour models, grey level and colour enhancement, neighbourhood operations and filtering. 
+          Use of the OpenGL graphics pipeline.<br><br>Grade Achieved: <strong>B</strong></p>
+      </div>
+      <div class="modal-container">
+        <h3>Compsci 345 <button class="expand" data-course="compsci345">Expand</button></h3>
+        <p id="compsci345" style="display: none;">Human behaviour and humans' expectations of computers.
+          Computer interfaces and the interaction between humans and computers.
+          The significance of the user interface, interface design and user centred design process in software development.
+          Interface usability evaluation methodologies and practice.
+          Includes a group development and evaluation project using current implementation techniques and tools.<br><br>Grade Achieved: <strong>A</strong></p>
+      </div>
+      <div class="modal-container">
+        <h3>Compsci 340 <button class="expand" data-course="compsci340">Expand</button></h3>
+        <p id="compsci340" style="display: none;">Operating system principles. 
+          Multi-user systems. Virtualisation. Scheduling. Concurrent processes, threads, synchronisation and deadlock. 
+          Memory allocation and virtual memory. Managing files, disks and other peripherals. 
+          Security, protection and archiving. Distributed systems and algorithms, location, migration and replication transparency. 
+          Real-time requirements. History of operating systems.<br><br>Grade Achieved: <strong>B+</strong></p>
+      </div>
+      <div class="modal-container">
+        <h3>Compsci 335 <button class="expand" data-course="compsci335">Expand</button></h3>
+        <p id="compsci335" style="display: none;">Covers functional programming concepts, with applications to data integration from heterogeneous and asynchronous collections. 
+          Building web and cloud clients and services, with emphasis on high-level declarative and functional techniques. 
+          Dynamic web applications. 
+          Security and performance as overarching factors of web application development.<br><br>Grade Achieved: <strong>A</strong></p>
+      </div>
+      <h2>Stage II</h2>
+      <div class="modal-container">
+        <h3>Compsci 230 <button class="expand" data-course="compsci230">Expand</button></h3>
+        <p id="compsci230" style="display: none;">The design and implementation of object-oriented programmes.
+          Analysis and design.
+          Modelling with UML.
+          Design for reuse, for testing, and for ease of change.
+          Programming with classes, objects and polymorphism.<br><br>Grade Achieved: <strong>C+</strong></p>        
+      </div>
+      <div class="modal-container">
+        <h3>Compsci 220 <button class="expand" data-course="compsci220">Expand</button></h3>
+        <p id="compsci220" style="display: none;">An introduction to the analysis of algorithms and data structures. 
+          Common abstract data types and their implementations. 
+          Asymptotic complexity analysis. Sorting and searching algorithms. 
+          Depth-first and breadth-first search and applications. 
+          Graph optimisation problems.<br><br>Grade Achieved: <strong>B</strong></p>
+      </div>
+      <div class="modal-container">
+        <h3>Compsci 210 <button class="expand" data-course="compsci210">Expand</button></h3>
+        <p id="compsci210" style="display: none;">The low level representation of data and algorithms in the computer. 
+          An introduction to computer organisation. The instruction execution model. Assembly and disassembly of instructions. Assembly language programming. 
+          How a high-level language is implemented at the machine level. The memory subsystem. 
+          Hardware support necessary to implement a secure multi-user operating system.<br><br>Grade Achieved: <strong>A</strong></p>
+      </div>
+      <h2>Stage I</h2>
+      <div class="modal-container">
+        <h3>Compsci 130 <button class="expand" data-course="compsci130">Expand</button></h3>
+        <p id="compsci130" style="display: none;">Fundamental programming techniques and processes, such as conditionals, iteration, recursion, functions, testing and debugging. 
+          Efficient ways to organise and manipulate data, including sorting and searching algorithms. 
+          Writing software that uses and implements common abstract data types such as lists, stacks, queues, 
+          dictionaries and trees.<br><br>Grade Achieved: <strong>A</strong></p>        
+      </div>
+      <div class="modal-container">
+        <h3>Compsci 120 <button class="expand" data-course="compsci120">Expand</button></h3>
+        <p id="compsci120" style="display: none;">Basic mathematical tools and methods needed for computer science are introduced. 
+          Elementary mathematical skills for defining, analysing and reasoning with abstract objects used in programming are developed. 
+          Topics include integers and rational numbers, strings and sets, methods of proof (including induction), algorithms and functions, and elementary introductions to graphs, trees, counting and probability.<br><br>Grade Achieved: <strong>B-</strong></p>
+      </div>
+      <div class="modal-container">
+        <h3>Compsci 110 <button class="expand" data-course="compsci110">Expand</button></h3>
+        <p id="compsci110" style="display: none;">An introduction to the various layers that make up a modern computer system: encoding of data and instructions, hardware, low-level programming, operating systems, applications and communications.<br><br>Grade Achieved: <strong>A-</strong></p>
+      </div>
+      <div class="modal-container">
+        <h3>Compsci 101 <button class="expand" data-course="compsci101">Expand</button></h3>
+        <p id="compsci101" style="display: none;">An introduction to computers and computer programming in a high-level language. 
+          The role of computers and computer professionals in society is also introduced. 
+          The course is intended for students who may wish to advance in Computer Science or in Information Systems and Operations Management.<br><br>Grade Achieved: <strong>A</strong></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="section-container">
+    <div class="section">
+      <div class="logo-container">
+        <a href="https://www.auckland.ac.nz/en.html">
+          <img class="uni-logo" src="other\University_of_Auckland_logo.png" alt="Placeholder Image">
+        </a>
+      </div>
+      <h1>University of Auckland</h1>
+      <p><strong>2015-2018</strong><br><br>Bachelors of Commerce, Finance and Economics Major</p>
+      <a class="btn" id="commerceBtn">Course Catalogue</a>
+    </div>
+  </div>
+  
+  <div id="commerceModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <img class="wip" src="other/Work-In-Progress-drawing.png" alt="wip image">      
+    </div>
+  </div>
+</body>
+</html>

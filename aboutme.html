@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your University Notes</title>
+<link rel="stylesheet" href="css/styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ruda:wght@800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/aboutme.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+<script defer = "true" type = "text/javascript" src = "js/aboutme.js"></script>
+</head>
+<body>
+  <div class="header">
+    <h1>PHILIP DING PORTFOLIO</h1>
+  </div>
+  <div class="navbar">
+    <a href="html.html">Home</a>
+    <a href="aboutme.html">About Me</a>
+    <a href="course.html">Acedemics</a>
+    <a href="signup.html">Sign Up</a>
+    <a href="login.html">Login</a>
+  </div>
+ 
+  <div class="section-container">
+    <img class="aboutme-image" src="other/AboutMe.jpg" alt="Placeholder Image">
+    <div class="section">
+      <h2>Greetings, I'm Philip Ding</h2>
+      <p>Based in Auckland, New Zealand, I've recently concluded my academic journey. 
+        With a background in Business Studies and a newfound interest in Computer Science, I have just finished my studies at the university of auckland. I'm seeking opportunities in Software Development and Data Analytics.</p>
+    </div>
+  </div>
+
+  <div class="section-container">
+    <div class="section">
+      <h2>Contact Information</h2>
+      <li>Email: <u>dingphilip@gmail.com</u></li>
+      <li>Phone: +64 210-269-0512</li>
+      <li><a href="https://www.linkedin.com/in/philip-ding-40a507246/">Linkedin</a></li>
+      <p>Check out my Resume and Acedemic Transcript!</p>
+      <a class="resume-btn" href="other/Philip Ding CV 26-08-2023 - SD.pdf" download>
+        <span class="pdf-icon"><i class="fas fa-file-pdf"></i></span> Download Resume PDF
+      </a>   
+    </div>
+  </div>
+
+  <div class="section-container">
+    <div class="section">
+      <h2>Background</h2>
+      <p>Combining my academic background in Finance and Economics with my recent Computer Science studies, I offer both analytical thinking and technical prowess. My experiences range from presenting NZQA courses and certificates to international students during my time at AWI International Education Group to crafting delightful sandwiches and ensuring the highest quality customer service at Subway.</p>
+    </div>
+  </div>
+
+  <div class="section-container">
+    <div class="section">
+      <h2>Noteworthy Projects</h2>     
+        <h3>StudyPal - Android App<button class="expand" data-course="proj1">Expand</button></h3>
+          <div id = "proj1" style="display:none">
+            <p>I was the leader of a team of five individuals to create StudyPal, an Android app designed to facilitate student-tutor collaboration. 
+            The project employed agile methodologies and version control tools like Git and JIRA. 
+            The app's user interface, created using Java and XML, focused on simplicity and utility. 
+            Secure registration and authentication were implemented using Firebase and SQLite.</p>
+            <p><strong>Credits to:</strong></p>
+            <li>Jacob Harris</li>
+            <li>Dami Oh</li>
+            <li>Xingyu Liu</li>
+            <li>Hong Yob Kim</li>
+            <li>Amitsingh Rawat</li>
+            <p>Here is a demo to our project:</p>
+            <video width="640" height="360" controls>
+              <source src="other/StudyPalDemo.mp4" type="video/mp4">
+              Your browser does not support the video tag.
+            </video>
+        </div>
+        <h3>GameAcademy - Web Development/strong<button class="expand" data-course="proj2">Expand</button></h3>
+        <div id = "proj2" style="display:none">
+          <p>In another project, GameAcademy, I developed a web-based platform for chess enthusiasts using C#.Net. 
+            The platform provided a space for online play and strategic improvement. 
+            The user interface was responsive, achieved through a combination of HTML, CSS, and JavaScript. 
+            I integrated user feedback mechanisms to drive iterative enhancements.</p>
+          <img class="image" src="other/Game Academy.png" alt="Placeholder Image">
+        </div>
+        <h3>Barcode Scanner - Python Application<button class="expand" data-course="proj3">Expand</button></h3>
+        <div id = "proj3" style="display:none">
+            In a Python-based endeavor, I engineered a program to detect barcodes from images. Matplotlib and image processing techniques were employed to accomplish accurate barcode identification, both for individual barcodes and multiple codes within a single image.</p>
+            <div class="image-container">
+              <img class="section-image" src="other/Barcode.png" alt="Placeholder Image">
+              <img class="section-image" src="other/Scanner.png" alt="Placeholder Image">
+            </div>
+        </div>
+      </div>
+  </div>
+
+    <div class="section-container">
+    <div class="section">
+      <h2>Beyond Tech</h2>
+      <p>When I'm not immersed in coding or problem-solving, you'll find me engaging in hobbies that keep me balanced. Something I’m extremely proud of is being the captain of over 5 different competitive Badminton Teams throughout my teenage years. During this journey we have won numerous titles throughout New Zealand. More recently I have taken a keen interest in going to the gym, I believe maintaining a good physical body helps with keeping mentally healthy as well.</p>
+    </div>
+  </div>
+
+</body>
+</html>
