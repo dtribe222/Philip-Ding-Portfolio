@@ -1,0 +1,165 @@
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.csproj.AssemblyReference.cache
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.AssemblyInfoInputs.cache
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.AssemblyInfo.cs
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.csproj.CoreCompileInputs.cache
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\appsettings.json
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.exe
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Photos\logo.pdf
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.deps.json
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.runtimeconfig.json
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.pdb
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\scopedcss\bundle\quiz.styles.css
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.csproj.CopyComplete
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\refint\quiz.dll
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.pdb
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.genruntimeconfig.cache
+C:\Users\Philip\Desktop\Assignments 335\quiz-template\obj\Debug\net6.0\ref\quiz.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\appsettings.json
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.exe
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Photos\logo.pdf
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.deps.json
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.runtimeconfig.json
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.pdb
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.csproj.AssemblyReference.cache
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.AssemblyInfoInputs.cache
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.AssemblyInfo.cs
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.csproj.CoreCompileInputs.cache
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\scopedcss\bundle\quiz.styles.css
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.csproj.CopyComplete
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\refint\quiz.dll
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.pdb
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.genruntimeconfig.cache
+C:\Users\Philip\Desktop\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\ref\quiz.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\appsettings.json
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.exe
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Photos\logo.pdf
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.deps.json
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.runtimeconfig.json
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\quiz.pdb
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.csproj.AssemblyReference.cache
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.AssemblyInfoInputs.cache
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.AssemblyInfo.cs
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.csproj.CoreCompileInputs.cache
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\scopedcss\bundle\quiz.styles.css
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.csproj.CopyComplete
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\refint\quiz.dll
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.pdb
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\quiz.genruntimeconfig.cache
+C:\Users\Philip\OneDrive\Desktop\Compsci 335-20230827T072344Z-001\Compsci 335\Assignments 335\quiz-template\obj\Debug\net6.0\ref\quiz.dll
